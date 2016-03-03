@@ -1,0 +1,24 @@
+opencv 编译过程
+Linker settings
+Linker libraries：
+/usr/local/lib/libopencv_core.so
+/usr/local/lib/libopencv_highgui.so
+/usr/local/lib/libopencv_imgproc.so
+
+Linker settings
+Other linker options：
+-fPIC
+
+Search dirctories：
+/usr/local/include/
+
+#compiler settings
+#Other options：
+#-fPIC
+
+编译命令：
+$ g++ main.cpp `pkg-config --cflags --libs opencv`
+$ ./a.out IP.png IP.png 
+
+$ gcc Test.c -o Test `pkg-config --cflags --libs opencv`
+$ ./Test baboon.jpg
