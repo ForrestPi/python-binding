@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++调用Python", "C++调用Python\C++调用Python.vcxproj", "{0F52AD26-54D7-4DD6-BA5E-CEABEA580FAE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Python调用C++", "Python调用C++\Python调用C++.vcxproj", "{97C466FE-5A7A-4AFB-AFAF-3E28DAAE6388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F52AD26-54D7-4DD6-BA5E-CEABEA580FAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F52AD26-54D7-4DD6-BA5E-CEABEA580FAE}.Debug|Win32.Build.0 = Debug|Win32
+		{0F52AD26-54D7-4DD6-BA5E-CEABEA580FAE}.Release|Win32.ActiveCfg = Release|Win32
+		{0F52AD26-54D7-4DD6-BA5E-CEABEA580FAE}.Release|Win32.Build.0 = Release|Win32
+		{97C466FE-5A7A-4AFB-AFAF-3E28DAAE6388}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97C466FE-5A7A-4AFB-AFAF-3E28DAAE6388}.Debug|Win32.Build.0 = Debug|Win32
+		{97C466FE-5A7A-4AFB-AFAF-3E28DAAE6388}.Release|Win32.ActiveCfg = Release|Win32
+		{97C466FE-5A7A-4AFB-AFAF-3E28DAAE6388}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
