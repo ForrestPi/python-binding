@@ -7,3 +7,7 @@ using python and C++ to Hybrid Programming
 [C/C++ 与 Python 的通信](https://www.zhihu.com/question/23003213)
 
 [聊聊Python ctypes 模块](http://zhuanlan.zhihu.com/python-dev/20152309)
+
+[Python Ctypes结构体指针处理(函数参数，函数返回) ](http://blog.csdn.net/joeblackzqq/article/details/10441017)
+
+[Python实例浅谈之三Python与C/C++相互调用 ](http://blog.csdn.net/taiyang1987912/article/details/44779719)
