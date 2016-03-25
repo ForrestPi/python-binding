@@ -17,3 +17,5 @@ using python and C++ to Hybrid Programming
 [Python FFI with ctypes and cffi ](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
 
 [Using C++ in Cython](http://docs.cython.org/src/userguide/wrapping_CPlusPlus.html)
+
+[Extending Python with C or C++](https://docs.python.org/3/extending/extending.html)
