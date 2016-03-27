@@ -19,3 +19,9 @@ using python and C++ to Hybrid Programming
 [Using C++ in Cython](http://docs.cython.org/src/userguide/wrapping_CPlusPlus.html)
 
 [Extending Python with C or C++](https://docs.python.org/3/extending/extending.html)
+
+
+###method
+1.ctypes
+2.swig
+3 boost-python
